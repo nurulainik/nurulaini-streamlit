@@ -14,6 +14,8 @@ pip install numpy pandas matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 ## Struktur Proyek
+```
 dashboard.py = kode untuk dashboard Streamlit
 reqruitments.txt = Daftar paket yang diperlukan untuk menjalankan dashboard
 data/ = Direktori berisi dataset E-commerce Public Dataset
+```
