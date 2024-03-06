@@ -56,7 +56,7 @@ st.write("## Distribusi Metode Pembayaran")
 st.bar_chart(payment_method_distribution)
 
 # ================================================================================
-# Pertanyaan 4
+# Pertanyaan 3
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -72,7 +72,7 @@ st.write("## Distribusi Ulasan Pelanggan Berdasarkan Skor Ulasan Produk")
 st.bar_chart(customer_satisfaction)
 
 # ================================================================================
-# Pertanyaan 5
+# Pertanyaan 4
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
